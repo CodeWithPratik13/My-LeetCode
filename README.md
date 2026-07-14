@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
