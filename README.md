@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
 | [1929-concatenation-of-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
