@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1929-concatenation-of-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 ## Simulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
