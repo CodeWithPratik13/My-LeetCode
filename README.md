@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0038-count-and-say) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
