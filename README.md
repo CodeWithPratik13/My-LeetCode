@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1534-count-good-triplets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 ## Simulation
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
