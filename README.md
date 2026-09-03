@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1051-height-checker) |
 | [1534-count-good-triplets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1534-count-good-triplets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1051-height-checker) |
 ## String
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Enumeration
 |  |
@@ -84,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1051-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
