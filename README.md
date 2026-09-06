@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2469-convert-the-temperature) |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
