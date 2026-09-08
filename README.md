@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0198-house-robber) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1051-height-checker) |
 | [1534-count-good-triplets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1534-count-good-triplets) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
