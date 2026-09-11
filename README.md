@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
