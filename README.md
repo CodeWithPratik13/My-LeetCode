@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [2235-add-two-integers](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
