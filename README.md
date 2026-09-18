@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0290-word-pattern) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
