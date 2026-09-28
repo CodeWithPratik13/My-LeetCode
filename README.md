@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0190-reverse-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0190-reverse-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
