@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0055-jump-game) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0198-house-robber) |
