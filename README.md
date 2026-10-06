@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
