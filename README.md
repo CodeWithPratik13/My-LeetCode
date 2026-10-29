@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0290-word-pattern) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0164-maximum-gap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/CodeWithPratik13/My-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
